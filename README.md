@@ -1,5 +1,5 @@
 # Bitcoin_Prediction
-Progetto dell'accademy Data Science e Generative AI per Crif
+Progetto per Crif dell'accademy Data Science e Generative AI.
 
 - Link Colab: [![Apri su Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/1bPEGyp3IGkF0hbej1MXPqgE-6VONrB5h?usp=sharing](https://drive.google.com/file/d/1i9OmBgJ6Lx-LrjrNtihCH-BtzPYxnZHz/view?usp=sharing))
 
