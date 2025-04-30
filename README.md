@@ -3,7 +3,7 @@ Progetto dell'accademy Data Science e Generative AI per Crif
 
 - Link Colab: [![Apri su Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/1bPEGyp3IGkF0hbej1MXPqgE-6VONrB5h?usp=sharing](https://drive.google.com/file/d/1i9OmBgJ6Lx-LrjrNtihCH-BtzPYxnZHz/view?usp=sharing))
 
-## 0. Obiettivo del Progetto
+## Obiettivo del Progetto
 
 L'obiettivo principale di questo progetto è sviluppare un sistema predittivo basato su **modelli di Machine Learning (ML)** per stimare:
 
