@@ -1,4 +1,4 @@
-# Project Work finale – Corso Data Sciennce and Generative AI (OVED627)
+# Project Work finale – Corso Data Science and Generative AI (OVED627)
 
 **Data Inizio:** 17/04/2025 – 09:00  
 **Data Fine:** 18/04/2025 – 18:00
