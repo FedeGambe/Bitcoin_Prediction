@@ -29,7 +29,9 @@ L’intero workflow si compone delle seguenti **fasi operative**:
 
 1. **Importazione e Pulizia del Dato**
 2. **Analisi Descrittiva del Bitcoin e degli altri asset**
-3. **Predizione del Market Trend di Bitcoin** con modelli LSTM e classificazione
-4. **Predizione del Fear and Greed Index** e analisi dei fattori di sentiment
+3. **Predizione del Market Trend di Bitcoin** con modelli LSTM e classificazione  
+   📂 [Vai alla cartella Market Trend](./Bitcoin_Prediction/2_Market_Trend)
+4. **Predizione del Fear and Greed Index** e analisi dei fattori di sentiment  
+   📂 [Vai alla cartella Fear & Greed Analysis](./Bitcoin_Prediction/3_Fear_Greed_Analysis)
 
 > Questo progetto unisce approcci quantitativi e qualitativi, combinando tecniche predittive e interpretative per comprendere e anticipare le dinamiche dei mercati finanziari in ambito crypto.
