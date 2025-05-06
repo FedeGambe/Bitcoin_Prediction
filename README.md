@@ -3,7 +3,7 @@
 
 Progetto per Crif dell'accademy Data Science e Generative AI.
 
-- Link Colab: [![Apri su Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DZLNtwSHd5MNxl6iJUWaGjxv-o84B_CB?usp=sharing)
+- Link Notebook Colab: [![Apri su Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DZLNtwSHd5MNxl6iJUWaGjxv-o84B_CB?usp=sharing)
 
 ## Obiettivo del Progetto
 
