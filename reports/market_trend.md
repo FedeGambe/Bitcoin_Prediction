@@ -1,3 +1,5 @@
+> **Nota di revisione (ottobre 2026).** Testo originale del corso. Verifiche successive: l'LSTM non usa il prezzo passato di BTC tra gli input (non è autoregressivo), la "correzione" in dollari è calcolata sul test, e la previsione "per le prossime due settimane" del multi-step copre in realtà 31/03–14/04/2025, già nel dataset. Dettagli nella pagina dei risultati (`docs/index.html`).
+
 ## 2. Analisi Predittiva del Market Trend
 
 ### 2.1 Introduzione

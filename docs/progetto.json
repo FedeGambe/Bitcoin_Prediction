@@ -1,0 +1,9 @@
+{
+    "repo": "Bitcoin_Prediction",
+    "t": "Cripto Trend & Sentiment",
+    "d": "LSTM, LightGBM e Random Forest per prevedere il prezzo di Bitcoin e stimare il Fear & Greed Index.",
+    "tags": ["Machine Learning", "Deep Learning", "Finanza", "Bitcoin"],
+    "y": 2025,
+    "live": "/Bitcoin_Prediction/",
+    "img": "img/cover_verticale.svg"
+}

@@ -1,3 +1,5 @@
+> **Nota di revisione (ottobre 2026).** Testo originale del corso. Verifiche successive: R² 0,98 dipende dallo split casuale (il Fear & Greed ha un valore al giorno ripetuto su 24 ore); con split cronologico l'R² del Random Forest è 0,00 (`scripts/run_fear_greed.py`). "IPC" è l'indice azionario messicano (^MXX), non l'indice dei prezzi al consumo. Dettagli nella pagina dei risultati (`docs/index.html`).
+
 ## 3. Analisi del Fear and Greed Index e Fattori di Sentiment di Mercato
 
 ### 3.1 Introduzione

@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cripto-trend"
+version = "1.0.0"
+description = "Machine learning per l'analisi predittiva di Bitcoin e del Fear & Greed Index"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Federico Gamberini" }]
+dependencies = [
+    "pandas>=2.0",
+    "numpy>=1.24",
+    "scikit-learn>=1.3",
+    "statsmodels>=0.14",
+    "plotly>=5.18",
+    "requests>=2.31",
+]
+
+[project.optional-dependencies]
+dl = ["tensorflow>=2.16", "lightgbm>=4.0"]
+dev = ["pytest>=8", "jupyter"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

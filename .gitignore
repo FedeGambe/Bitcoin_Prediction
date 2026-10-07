@@ -1,0 +1,12 @@
+# Ambiente
+.venv/
+__pycache__/
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+.DS_Store
+
+# Output generati dagli script (si rigenerano)
+reports/figures/
+data/interim/
+cartella_decompressa/

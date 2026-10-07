@@ -1,0 +1,113 @@
+{
+  "pca_components": 6,
+  "ranking": [
+    {
+      "Modello": "Random Forest Regression",
+      "R2 medio": 0.9818007253827403,
+      "MSE medio": 4.955378030773085
+    },
+    {
+      "Modello": "K-Nearest Neighbors Regression",
+      "R2 medio": 0.9797826520552497,
+      "MSE medio": 5.503667290297461
+    },
+    {
+      "Modello": "Decision Tree Regression",
+      "R2 medio": 0.967383637454974,
+      "MSE medio": 8.874817946408495
+    },
+    {
+      "Modello": "Gradient Boosting Regression",
+      "R2 medio": 0.905090085400254,
+      "MSE medio": 25.819939306001707
+    },
+    {
+      "Modello": "MLP Regression",
+      "R2 medio": 0.8984479863627172,
+      "MSE medio": 27.629477559201852
+    },
+    {
+      "Modello": "Support Vector Regression",
+      "R2 medio": 0.8379646286874461,
+      "MSE medio": 44.084282536067306
+    },
+    {
+      "Modello": "AdaBoost Regression",
+      "R2 medio": 0.7851998829933745,
+      "MSE medio": 58.45081880313755
+    },
+    {
+      "Modello": "Bayesian Ridge Regression",
+      "R2 medio": 0.5521371336171074,
+      "MSE medio": 121.87638044308478
+    },
+    {
+      "Modello": "Ridge Regression",
+      "R2 medio": 0.5521368871198138,
+      "MSE medio": 121.87644776327491
+    },
+    {
+      "Modello": "Linear Regression",
+      "R2 medio": 0.5521368036309406,
+      "MSE medio": 121.87647055121317
+    },
+    {
+      "Modello": "Huber Regression",
+      "R2 medio": 0.5449799678701923,
+      "MSE medio": 123.82783097190504
+    },
+    {
+      "Modello": "Lasso Regression",
+      "R2 medio": 0.5339888784886895,
+      "MSE medio": 126.81102326355058
+    },
+    {
+      "Modello": "TheilSen Regression",
+      "R2 medio": 0.5091618633936565,
+      "MSE medio": 133.5787769744626
+    },
+    {
+      "Modello": "Elastic Net Regression",
+      "R2 medio": 0.4717197451054589,
+      "MSE medio": 143.7570150930641
+    },
+    {
+      "Modello": "RANSAC Regression",
+      "R2 medio": 0.3405556701124549,
+      "MSE medio": 179.32285821004567
+    },
+    {
+      "Modello": "Quantile Regression",
+      "R2 medio": -0.012055933272263442,
+      "MSE medio": 275.38618198152636
+    }
+  ],
+  "random_forest": {
+    "MSE": 4.1703833497167375,
+    "RMSE": 2.042151647091062,
+    "MAE": 0.9992669070153372,
+    "R2": 0.984817189147154
+  },
+  "split_robustness": [
+    {
+      "Split": "Casuale (notebook)",
+      "R2": 0.984817189147154,
+      "MAE": 0.9992669070153373
+    },
+    {
+      "Split": "Per giorno",
+      "R2": 0.8735991204299074,
+      "MAE": 3.8428928181748176
+    },
+    {
+      "Split": "Per settimana",
+      "R2": 0.7544866282179125,
+      "MAE": 6.14416850581208
+    },
+    {
+      "Split": "Cronologico 80/20",
+      "R2": -0.0007521629660769413,
+      "MAE": 17.358685217092834
+    }
+  ]
+}
