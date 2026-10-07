@@ -116,6 +116,7 @@ ul{padding-left:22px} li{margin:8px 0}
 .slide-testa h1{font-size:clamp(2.4rem,7.5vw,5.6rem); line-height:.95; letter-spacing:-.04em; text-wrap:pretty;
   transform-origin:left bottom; transform:scale(calc(1 - .3 * var(--p,0)))}
 .copertina h1 em{color:var(--c2-cover)}
+@media (orientation:landscape){ .slide-testa{padding-right:max(var(--margine), 45vw)} }  /* in orizzontale il testo resta a sinistra della B della cover (che parte al ~58% della larghezza) */
 .copertina .sottotitolo{font-size:clamp(1rem,1.7vw,1.2rem); margin:20px 0 0; color:#d9ccaf}
 .copertina .sottotitolo p{margin:0}
 .copertina .sottotitolo strong{color:#efe3c8}
