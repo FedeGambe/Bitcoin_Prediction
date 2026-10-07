@@ -29,7 +29,7 @@ I soli dati di mercato non bastano a prevedere né il prezzo né il sentiment. L
 
 ```
 ├── data/raw/Dataset.zip          dataset orario (merged_fix_to_hour.csv)
-├── docs/                         pagina GitHub Pages (index.html, progetto.json, img/, vendor/plotly)
+├── docs/                         pagina GitHub Pages (index.html, progetto.json, img/)
 ├── models/                       LSTM addestrate (.keras) e storie di training (.pkl)
 ├── notebooks/                    notebook originali del corso
 ├── references/                   testo della consegna
